@@ -1,0 +1,36 @@
+button{
+    align-items: center;
+    animation: alternate-reverse;
+    background-color: aquamarine;
+    background-origin: padding-box;
+    border: 0.1px;
+    color: brown;
+    width: 300px;
+    font-family: monospace;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: antiquewhite;
+    transform: scale(1.1);
+  }
+
+img{
+   width: 100%;
+   height: auto;
+}
+
+h1{
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgba(105, 58, 35, 0.898);
+    font-style: italic;
+    font-family: fantasy;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(220, 209, 209);
+}
